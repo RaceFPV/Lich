@@ -1,0 +1,7 @@
+2020-06-05 22:49:41: info: Lich 4.6.54
+2020-06-05 22:49:41: info: Ruby 2.5.5
+2020-06-05 22:49:41: info: i386-mingw32
+2020-06-05 22:49:41: info: no force-mode info given
+#<Thread:0x04c42080@C:/Users/Mike/Documents/git/Lich/lich.rb:5063 run> terminated with exception (report_on_exception is true):
+C:/Users/Mike/Documents/git/Lich/lich.rb:6381:in `kill': wrong number of arguments (given 0, expected 1) (ArgumentError)
+	from C:/Users/Mike/Documents/git/Lich/lich.rb:6381:in `block in <main>'
